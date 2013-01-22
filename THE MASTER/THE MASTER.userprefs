@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\1 BlueSteel\Controller.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\1 BlueSteel\Wepon Scripts\Bullet.js">
     <Files>
       <File FileName="Assets\1 BlueSteel\Enemies\Enemy Scripts\EnhancerChaser.cs" Line="1" Column="1" />
       <File FileName="Assets\1 BlueSteel\Controller.cs" Line="9" Column="28" />
+      <File FileName="Assets\1 BlueSteel\Wepon Scripts\Bullet.js" Line="9" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
